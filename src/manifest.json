@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Steam Scam Guard",
   "version": "1.0",
-  "description": "Identifies and warns users if the website they are trying to log into is not Steam.",
+  "description": "Identifies and warns users if the website they are trying to log into is not Steam. Powered by playforstake.com",
   "permissions": ["storage", "activeTab", "webNavigation", "notifications"],
   "background": {
     "service_worker": "background.js"
